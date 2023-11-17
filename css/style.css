@@ -8,7 +8,7 @@ body{
     min-height: 100vh;
     margin: 0;
     padding: 0;
-   
+
 }
 .container{
     background-color:hsl(244, 38%, 16%);
@@ -55,7 +55,7 @@ h4 span{
 .stat h6{
     color: hsl(0, 0%, 100%);
     font-family: 'Inter', sans-serif;
-    font-size: 1.5rem;
+    font-size: 18px;
     font-weight: 700;
 }
 .image{
